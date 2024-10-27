@@ -1,0 +1,27 @@
+@110 = ~archer generique~ 
+@111 = ~Archer Générique~
+@112 = ~Archer Générique : L'Archer Générique est l'épitome de l'adresse avec un arc. C'est l'attaquant à distance ultime, capable de réussir à peu près n'importe quel coup, quelle que soit la difficulté.  Pour devenir aussi doué avec un arc, l'archer a eu à sacrifier certains de ses talents avec les armes de mêlée et les armures.
+
+Avantages :
+-  +1 au toucher, et +1 point de dégâts avec n'importe quelle arme à distance tous les 3 niveaux d'expérience.
+-  Tous les 4 niveaux il gagne la capacité de faire un Trait Aligné une fois par jour. Quand il utilise cette capacité, n'importe quel tir effectué dans les 10 secondes qui suivent est augmenté de la manière suivante (selon le niveau de l'archer) :
+Niveau 4 :  -1 au TAC0 de la cible
+Niveau 8 :  -1 aux jets de sauvegarde contre la magie de la cible
+Niveau 12 :  -1 à la force de la cible
+Niveau 16 :  bonus de +2 aux dégâts
+
+Désavantages :
+-  Peut seulement mettre deux étoiles dans les armes de melée ; ne peut jamais atteindre le niveau Maitre.
+-  Ne peut pas porter d'armure de métal.~
+@2900 = ~anti-paladin~
+@2901 = ~Anti-Paladin~
+@2902 = ~ANTI-PALADIN : L'Anti-Paladin a dédié sa vie à traquer et à éliminer les praticiens de la magie bénéfique, et à défaire les forces du bien. A cette fin son Dieu Noir lui a prodigué certaines capacités. Les Anti-Paladins prenent une grande joie à inliger la douleur et la souffrance. 
+
+Avantages :
+-  Peut utiliser 'Dissipation de la magie' une fois par jour par tranches de 4 niveaux (débute au niveau 1 avec une utilisation) : la capacité est utilisée à un facteur de vitesse de 1 et agit à une puissance du double de son niveau actuel. 
+-  Peut invoquer 'Vision véritable' une fois par jour par tranches de 4 niveaux (débute au niveau 1 avec une utilisation)
+-  Immunisé à la paralysie et aux charmes
+-  Dissipe la magie en touchant
+
+Désavantages :
+-  Doit être Mauvais~

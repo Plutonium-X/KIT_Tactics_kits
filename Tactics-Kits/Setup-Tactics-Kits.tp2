@@ -1,0 +1,54 @@
+BACKUP ~Tactics-Kits/Backup~
+AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
+VERSION ~v1~
+
+ALWAYS
+	INCLUDE ~Tactics-Kits/fl#add_kit_ee.tpa~
+END
+
+LANGUAGE ~Francais~
+	~French~
+	~Tactics-Kits/Setup.tra~
+
+// Generic Archer Kit
+BEGIN @110
+ADD_KIT ~pxWARCH~
+~pxWARCH                 1           1           1           1           1 1           1           1~
+~pxWARCH 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 5 5 5 5 5 2 2 2 3 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2~
+~pxWARCH                 9      0      0      0       0      0~
+~pxWARCH                 0       0       0       0       0       0~
+~pxWARCH                 17      0      0       0       0      0~
+~pxWARCH                 15      0      0       0       0      0~
+~pxWARCH                 1       1       1       1       1       1       1 1       1~
+~pxWARCH                 0       1       1       1       1       0~
+~Tactics-Kits/pxWARCH.2da~
+~K_F_H    K_F_D   K_F_G   K_F_E   K_F_HE   K_F_HL   K_F_HO~
+~0x00008000     2~
+~Fi0~
+~LEAT20 DART03,40 HELM07 BAG26 RING06 RING31 CLCK27 BOOT01 AMUL19 BRAC10 BELT06 AROW11,40 BULL03,40 BOLT06,40 POTN52,5 POTN04,2 POTN14,5 BOW11 BOW19 XBOW06~
+SAY @110
+SAY @111
+SAY @112
+LAF fl#add_kit_ee	STR_VAR kit_name = pxWARCH	END
+
+// Anti-Paladin Kit
+BEGIN @2900
+COPY ~Tactics-Kits/Copy~		~Override~
+ADD_KIT ~pxWANTI~
+~pxWANTI                 1           1           1           1           1 1           1           1~
+~pxWANTI 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 2 2 2 3 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2~
+~pxWANTI                 12      0      0      0       13      17~
+~pxWANTI                 0       0       0       0       0       0~
+~pxWANTI                 17      0      0       0       0      0~
+~pxWANTI                 15      0      0       0       0      0~
+~pxWANTI                 0       0       1       0       0       1       0 0       1~
+~pxWANTI                 0       1       1       1       1       0~
+~Tactics-Kits/pxWANTI.2da~
+~K_F_H    K_F_D   K_F_G   K_F_E   K_F_HE   K_F_HL   K_F_HO~
+~0x00000001     2~
+~Fi0~
+~LEAT21 HAMM07 HELM07 BAG26 RING06 RING31 CLCK30 BOOT01 AMUL19 BRAC10 BELT06 AROW11,40 BULL03,40 BOLT06,40 POTN52,5 POTN04,2 POTN14,5 SW2H10 SW2H08 MISCBC~
+SAY @2900
+SAY @2901
+SAY @2902
+LAF fl#add_kit_ee	STR_VAR kit_name = pxWANTI	END
