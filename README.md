@@ -1,4 +1,4 @@
-# Les anciens kits inclus dans Tactic et qui sont depuis les éditions EE devenus innaccessibles : ils ne sont ni dans "Tactics2 for_EE-alpha73" ni dans "Tactics Remix".  Mais ils sont ici :)
+# Les anciens kits inclus dans Tactic et qui sont depuis les éditions EE devenus innaccessibles : ils ne sont ni dans ["Tactics2 for_EE-alpha73"](https://forums.beamdog.com/discussion/41242/tactics-mod-bg2ee-compatibility-conversion-and-beta-test/p1) ni dans "Tactics Remix".  Mais ils sont ici :)
 
 Archer Générique (Geurrier) :
 
