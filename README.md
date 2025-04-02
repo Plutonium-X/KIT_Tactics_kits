@@ -9,7 +9,8 @@ Archer Générique (Geurrier) :
 -Désavantages :
 - Peut seulement mettre deux étoiles dans les armes de melée.
 - Pas d'armure métallique.
- 
+
+ ----------------
 
 Anti-Paladin (Geurrier)
 
