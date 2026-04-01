@@ -10,6 +10,9 @@ Archer Générique (Guerrier) :
 - Peut seulement mettre deux étoiles dans les armes de melée.
 - Pas d'armure métallique.
 
+-Note :
+- Contrairement à l'Archer des éditons EE qui ne peut se spécialiser qu'avec les arcs et les arbalètes, ce kit peut aussi se spécialiser dans les frondes et les fléchettes (il a été prévu pour le jumelage / multiclassage)
+
  ----------------
 
 Anti-Paladin (Guerrier)
@@ -22,3 +25,4 @@ Anti-Paladin (Guerrier)
 
 -Désavantages :
 - Doit être Mauvais~
+
