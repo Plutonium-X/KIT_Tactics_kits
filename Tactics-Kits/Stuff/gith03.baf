@@ -1,0 +1,48 @@
+IF
+  HasItem("reaver",Myself)
+  PartyHasItem("reaver")
+THEN
+  RESPONSE #100
+    TakeItemReplace("sw2h11","reaver",Myself)
+END
+
+IF
+  See(NearestEnemyOf(Myself))
+  !GlobalTimerNotExpired("Dispel","LOCALS")
+THEN
+  RESPONSE #100
+    ReallyForceSpell(LastSeenBy(Myself),INQUIS_DISPEL_MAGIC)
+    SetGlobalTimer("Dispel","LOCALS",18)
+    Continue()
+END
+
+IF
+  !See(NearestEnemyOf(Myself))
+  Detect(NearestEnemyOf(Myself))
+  !GlobalTimerNotExpired("Sight","LOCALS")
+THEN
+  RESPONSE #100
+    ReallyForceSpell(LastSeenBy(Myself),INQUIS_TRUE_SIGHT)
+    SetGlobalTimer("Sight","LOCALS",18)
+    Continue()
+END
+
+IF
+  HPLT(Myself,30)
+  GlobalLT("lay","LOCALS",2)
+THEN
+  RESPONSE #100
+    ApplySpell(Myself,EVIL_LAYONHANDS)
+    IncrementGlobal("lay","LOCALS",1)
+END
+
+IF
+  See(NearestEnemyOf(Myself))
+  Delay(6)
+THEN
+  RESPONSE #60
+    ForceSpell(LastSeenBy(Myself),PSIONIC_MAZE)
+  RESPONSE #40
+    Continue()
+END
+

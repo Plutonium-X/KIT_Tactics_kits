@@ -1,0 +1,48 @@
+@110 = ~arciere generico~ 
+@111 = ~Arciere Generico~
+@112 = ~ARCIERE GENERICO: L'arciere è l'incarnazione dell'abilità con l'arco. E il tiratore scelto per eccellenza, in grado di compiere qualsiasi tiro, non importa quanto difficile. Per diventare così abile con l'arco, l'arciere ha dovuto sacrificare un poco della sua competenza con armi e armature da mischia.
+
+Vantaggi:
+-  +1 ai tiri per colpire, e +1 ai danni con qualsiasi arma da lancio per ogni 3 livelli di esperienza.
+-  Ogni 4 livelli guadagna la caratteristica di compiere un tiro mirato 1 volta al giorno. Quando attiva questa abilità, qualsiasi tiro compiuto entro 10 secondi viene aumentato in questo modo (a seconda del livello dell'arciere):
+4° livello:  -1 al THACO del bersaglio
+8° livello:  -1 al tiro salvezza contro la magia del bersaglio
+12° livello:  -1 alla forza del bersaglio
+16° livello:  +2 bonus ai danni
+
+Svantaggi:
+-  Un arciere può solo essere competente nelle armi da mischia: non può essere specializzato.
+-  Un arciere non può indossare alcuna armatura di metallo.~
+
+@2900 = ~anti-paladino~
+@2901 = ~Anti-Paladino~
+@2902 = ~ANTI-PALADINO: L'Anti-Paladino ha dedicato la sua vita a trovare ed eliminare i praticanti della magia buona e a sconfiggere le forze della luce, e a questo scopo il suo oscuro dio lo ha dotato di caratteristiche speciali. Gli Anti-paladini provano una gioia particolare nell'infliggere dolore e sofferenza.
+ 
+
+Vantaggi:
+-  Può usare la caratteristica 'Dissolvi Magia' 1 volta al giorno per 4 livelli (inizia al 1° livello con un uso): la caratteristica è usata a fattore velocità 1 e funziona al doppio del suo attuale livello. 
+-  Può lanciare 'Visione del Vero' 1 volta al giorno per 4 livelli (inizia al 1° livello con un uso)
+-  Immune agli incantesimi di Blocco e Charme
+-  'Dissolvi Magia' ad ogni colpo in mischia
+
+Svantaggi:
+-  Non può usare le armi tipiche del paladino come il Vendicatore Sacro
+-  Non può scacciare i non morti
+-  Non può lanciare incantesimi dei chierici
+-  Deve essere Malvagio~
+
+@2904 = ~Empio Massacratore~
+@2905 = ~Empio Massacratore +5
+Questa oscura spada a due mani irradia una forte aura di malvagità, e può venire usata solo dagli Anti-Paladini. <CHARNAME> l'ha conquistata in una battaglia con i Githyanki. Essa concede al portatore l'immunità ai poteri mentali come quelli degli Illithid, il nemico più odiato dai Githyanki. 
+
+STATISTICHE:
+
+Abilità durante l'uso:  Protegge dagli incantesimi Charme e Psionici
+THAC0: +5 bonus
+Danno: 1D12 +5, +5 di danno addizionale ai bersagli Buoni
+Abilità di combattimento: Dissolvi Magia ad ogni colpo
+Tipo di danno: Taglio
+Peso: 15
+Fattore Velocità: 5
+Tipo di capacità: Spada a due mani
+Tipo: A 2 mai~

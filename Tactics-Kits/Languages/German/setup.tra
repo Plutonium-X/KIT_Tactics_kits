@@ -1,0 +1,45 @@
+@110 = ~normaler schütze~
+@111 = ~Normaler Schütze~
+@112 = ~NORMALER SCHÜTZE: Der Normale Schütze ist ein Meister im Umgang mit dem Bogen. Diesem ultimativen Bogenschützen gelingt praktisch jeder Schuss, egal wie schwierig er ist. Da er sich so stark auf den Umgang mit dem Bogen spezialisiert hat, musste er sein Training mit Nahkampfwaffen und im Kampf mit Rüstung vernachlässigen.
+
+Besondere Vorteile:
+- +1 auf Trefferwürfe und Schaden je 3 Stufen mit Schusswaffen
+- Für je 4 Stufen kann er einmal täglich gezielte Schüsse abgeben. Alle Schüsse, die innerhalb von 10 Sekunden, nach dem Einsetzen dieser Fähigkeit, ausgeführt werden, erhalten die folgenden Zuschläge, die von der Stufe des Scharfschützen abhängen:
+ab der 4. Stufe: Ziel erleidet -1 auf ETW0
+ab der 8. Stufe: Ziel erleidet -1 auf Rettungswürfe gegen Magie
+ab der 12. Stufe: Ziel erleidet -1 auf Stärke
+ab der 16. Stufe: +2 auf Schaden
+
+Besondere Nachteile:
+- Ein Scharfschütze kann nur eine Fertigkeit im Umgang mit Nahkampfwaffen erlangen. Er kann sich nicht spezialisieren.
+- Ein Scharfschütze kann keine Metallrüstungen tragen.~
+
+@2900 = ~anti-paladin~
+@2901 = ~Anti-Paladin~
+@2902 = ~ANTI-PALADIN: Der Anti-Paladin hat sein Leben dem Aufspüren und Eliminieren von Magiern mit guter Gesinnung und dem Sieg über die Mächte des Lichts gewidmet. Sein dunkler Gott hat ihn mit beachtlichen Fähigkeiten ausgestattet, damit er sein Ziel erreicht. Anti-Paladine haben besondere Freude daran, anderen Wesen Schmerz und Leid zu bringen. 
+
+Vorteile:
+-  Kann einmal täglich für je 4 Stufen 'Magie bannen' wirken (Beginnend auf Stufe 1 mit einer Anwendung). Die Fähigkeit hat Initiativefaktor 1 und wird mit der doppelten Stufe des Anti-Paladins gewirkt. 
+-  Kann einmal täglich für je 4 Stufen 'Wahrer Blick' wirken (Beginnend auf Stufe 1 mit einer Anwendung)
+-  Immun gegen Festhalten und Bezauberung
+-  Verursacht 'Magie bannen' mit jedem Treffer im Nahkampf
+
+Nachteile:
+-  Kann keine Paladinwaffen wie Heilige Rächerschwerter führen
+-  Kann keine Untoten vertreiben
+-  Kann keine Priesterzauber wirken
+-  Muß von böser Gesinnung sein~
+
+@2904 = ~Unheiliger Raub~
+@2905 = ~Unheiliger Raub +5
+Dieses dunkle, zweihändige Schwert strahlt das Böse schon von weitem aus und ist nur von Anti-Paladinen und anderen Kämpfern mit böser Gesinnung verwendbar. <CHARNAME> hat es in einem Kampf mit den Githyanki gewonnen. Das Schwert verleiht dem Träger Immunität gegen mentale Angriffe wie die der Illithiden, der Erzfeinde der Githyanki. 
+
+STATISTICS:
+
+Fähigkeiten:  Schutz vor Bezauberung und PSI-Kräften
+ETW0:  -5
+Schaden:  1W12 +5, +5 zusätzlicher Schaden gegen Gute Kreaturen
+Kampffähigkeiten:  Magie bannen mit jedem Treffer
+Gewicht: 15
+Geschwindigkeitsfaktor: 5
+Typ: Zweihänder~

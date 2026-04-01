@@ -1,0 +1,46 @@
+@110 = ~generic archer~ 
+@111 = ~Generic Archer~
+@112 = ~GENERIC ARCHER: The generic archer is the epitome of skill with the bow.  He is the ultimate marksman, able to make almost any shot, no matter how difficult.  To become so skilled with the bow, the archer has had to sacrifice some of his proficiency with melee weapons and armor.
+
+Advantages:
+-  +1 to hit, and +1 to damage with any missile weapon for every 3 levels of experience.
+-  Every 4 levels he gains the ability to make a called shot once per day.  When he activates this ability, any shot made within the next 10 seconds is augmented in the following manner (according to the level of the archer):
+4th level:  -1 to THACO of target
+8th level:  -1 to save vs magic of target
+12th level:  -1 to strength of target
+16th level:  +2 bonus to damage
+
+Disadvantages:
+-  An archer can only specialize in Melee weapons; he may never obtain mastery.
+-  An archer cannot wear any metal armor.~
+@2900 = ~anti-paladín~
+@2901 = ~Anti-Paladín~
+@2902 = ~ANTI-PALADIN: El Anti-Paladín ha dedicado su vida a encontrar y eliminar a los practicantes de mágia benigna y a derrotar las fuerzas de la luz, y su dios oscuro le ha proveído de habilidades especiales para tal propósito. Los Anti-Paladines obtienen un especial placer inflingiendo dolor y sufrimiento.
+
+Ventajas:
+-  Puede utilizar la aptitud de "Disipar magia" una vez al día por cada 4 niveles de experiencia (empezando con un uso diario en 1er nivel); esta aptitud se utiliza con un factor de velocidad 1 y funciona como si el personaje tuviera un nivel equivalente al doble del real.
+-  Puede ejecutar "Vista verdadera" una vez al día por cada 4 niveles de experiencia (empezando con un uso diario en 1er nivel).
+-  Es inmune a los conjuros de inmovilizar y Hechizar.
+-  'Disipar Magia' por cada golpe.
+
+Desventajas:
+-  No pueden usar las armas convencionales de paladín como Vengadores Sagrados
+-  No pueden expulsar no-muertos o muertos vivientes
+-  No pueden lanzar conjuros de clérigo
+-  Deben ser malignos~
+
+@2904 = ~Saqueador impío~
+@2905 = ~Saqueador impío +5
+Este oscuro mandoble irradia maldad hasta cierta distancia, y sólo puede ser utilizado por anti-paladines y otros luchadores malignos. <CHARNAME> la obtuvo de una batalla con los Githyanki. Concede al portador inmunidad a los poderes mentales como los de los Ilícidos, los enemigos mas odiados de los Githyanki.
+
+ESTADÍSTICAS:
+
+HABILIDADES EQUIPADAS:  Protección de Encantamientos y Psiónicos
+GAC0:  bonificador +5
+Daño:  1D12 +5, +5 de daño adicional contra objetivos Buenos
+Habilidades de combate:  Disipar Magia en cada golpe
+Tipo de Daño:  Cortante o Cuchillada
+Peso: 15
+Factor de Velocidad: 5
+Talento marcial: Mandoble
+Tipo:  A 2 manos~

@@ -1,0 +1,47 @@
+@110 = ~generic archer~ 
+@111 = ~Generic Archer~
+@112 = ~GENERIC ARCHER: The generic archer is the epitome of skill with the bow.  He is the ultimate marksman, able to make almost any shot, no matter how difficult.  To become so skilled with the bow, the archer has had to sacrifice some of his proficiency with melee weapons and armor.
+
+Advantages:
+-  +1 to hit, and +1 to damage with any missile weapon for every 3 levels of experience.
+-  Every 4 levels he gains the ability to make a called shot once per day.  When he activates this ability, any shot made within the next 10 seconds is augmented in the following manner (according to the level of the archer):
+4th level:  -1 to THACO of target
+8th level:  -1 to save vs magic of target
+12th level:  -1 to strength of target
+16th level:  +2 bonus to damage
+
+Disadvantages:
+-  An archer can only specialize in Melee weapons; he may never obtain mastery.
+-  An archer cannot wear any metal armor.~
+
+@2900 = ~anti-paladin~
+@2901 = ~Anti-Paladin~
+@2902 = ~ANTI-PALADIN: The Anti-Paladin has dedicated his life to finding and eliminating practicioners of good magic and defeating the forces of light, and his dark god has provided him with special abilities toward that end. Anti-Paladins take a special joy in inflicting pain and suffering. 
+
+Advantages:
+-  May use 'Dispel Magic' ability once per day per 4 levels (starts at 1st level with one use): ability is used at speed factor 1 and acts at twice his actual level. 
+-  May cast 'True Sight' once per day per 4 levels (starts at 1st level with one use)
+-  Immune to Hold and Charm spells
+-  'Dispel Magic' on every melee hit
+
+Disadvantages:
+-  May not use standard paladin weapons like Holy Avengers
+-  May not Turn Undead
+-  May not cast Clerical spells
+-  Must be Evil~
+
+@2904 = ~Unholy Reaver~
+@2905 = ~Unholy Reaver +5
+This dark, two-handed sword radiates evil from a distance and is only usable by Anti-Paladins and other evil fighters. <CHARNAME> claimed it in a battle with the Githyanki. It grants the bearer immunity to mental powers like those of the Illithid, the most hated enemy of the Githyanki. 
+
+STATISTICS:
+
+Equipped Abilities:  Protection from Charm and Psionics
+THAC0:  +5 bonus
+Damage:  1D12 +5, +5 additional damage to Good targets
+Combat Abilities:  Dispel Magic on Hit
+Damage type:  slashing
+Weight: 15
+Speed Factor: 5
+Proficiency Type: Two-Handed sword
+Type:  2-handed~

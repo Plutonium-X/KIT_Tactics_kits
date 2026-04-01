@@ -1,0 +1,46 @@
+@110 = ~strzelec~ 
+@111 = ~Strzelec~
+@112 = ~STRZELEC: Jest on najlepszym przyk³adem wojownika, który od pocz¹tku szkolenia najwiêcej czasu poœwiêca³ strzelaniu z ³uku. Znakomicie strzela, potrafi wykonaæ ka¿dy strza³, niewa¿ne jak trudny. Aby staæ siê strzelcem wyborowym, ³ucznik ten musia³ zrezygnowaæ z bieg³oœci w broni bia³ej, s³u¿¹cej do walki wrêcz.
+
+Zalety:
+-  +1 do trafienia oraz +1 do obra¿eñ z ka¿dej broni strzeleckiej na ka¿de 3 poziomy doœwiadczenia.
+-  Na ka¿de 4 poziomy doœwiadczenia uzyskuje zdolnoœæ wykonania specjalnego strza³u raz dziennie.  Kiedy uaktywni tê zdolnosæ ka¿dy nastêpny strza³ w czasie nastêpnych 10 sekund bêdzie mia³, zale¿nie od poziomu postaci nastêpuj¹ce w³aœciwoœci:
+4 poziom: -1 do TraK0 dla celu
+8 poziom: -1 do rzutu obronnego przeciw magii dla celu
+12 poziom: -1 do si³y dla celu
+16 poziom: Premia +2 do obra¿eñ
+
+Wady:
+-  Strzelec nie mo¿e osi¹gn¹æ mistrzostwa w broniach rêcznych.
+-  Strzelec nie mo¿e nosiæ ¿adnej zbroi metalowej.~
+
+@2900 = ~antypaladyn~
+@2901 = ~Antypaladyn~
+@2902 = ~ANTYPALADYN: Antypaladyn poœwiêci³ swe ¿ycie na poszukiwaniu dobrej magii, niszczeniu jej i wszystkich, którzy siê ni¹ pos³uguj¹. Jego mroczny bóg obdarzy³ go specjalnymi umiejêtnoœciami, które maj¹ mu pomóc w wykonywaniu zadania. Antypaladyn czerpie specyficzn¹ radoœæ z zadawania bólu i cierpienia. 
+
+Zalety:
+-  Mo¿e u¿yæ zdolnoœci 'Rozproszenie Magii' raz dziennie na 4 poziomy (zaczynaj¹c na pierwszym poziomie z jednym u¿yciem): zdolnoœæ u¿ywa siê z opóŸnieniem 1 liczy siê dwukrotnie jak jego aktualny poziom. 
+-  Mo¿e rzucaæ 'Prawdziwe Widzenie' raz dziennie na 4 poziomy (zaczynaj¹c na pierwszym poziomie bez u¿ycia)
+-  Odornoœæ na czary unieruchamiaj¹ce i uroki
+-  'Rozproszenie Magii' za ka¿dym celnym trafieniem
+
+Wady:
+-  Nie mo¿e u¿ywaæ standardowych broni paladynów jak Œwiêty Mœciciel
+-  Nie mo¿e Przepêdzaæ Nieumar³ych
+-  Nie rzucaæ czarów kap³añskich
+-  Musi byæ z³y~
+
+@2904 = ~Nieœwiêty Mœciciel~
+@2905 = ~Nieœwiêty Mœciciel +5
+Ten mroczny, oburêczny miecz emanuje z³em ju¿ z dystansu i mo¿e byæ u¿ywany tylko przez Antypaladynów i innych z³ych wojowników. <CHARNAME> uzyska³ go w walce z Githyanki. Otacza barier¹ odpornoœci na mentalne ataki, takich istot jak Illithidzi, najbardziej znienawidzeni wrogowie Githyanki. 
+
+PARAMETRY:
+
+Specjalne: Ochrona przed Urokami i Psionik¹, Rozproszenie Magii przy trafieniu
+TraK0: Premia +5
+Obra¿enia:  1K12 +5, dodatkowo +5 przeciw dobrym celom
+Typ obra¿eñ:  sieczne
+Waga: 15
+OpóŸnienie: 5
+Rodzaj bieg³oœci: miecz oburêczny
+Typ broni:  2-rêczna~
