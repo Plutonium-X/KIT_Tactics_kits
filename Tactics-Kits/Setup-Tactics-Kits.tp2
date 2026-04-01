@@ -1,14 +1,28 @@
 BACKUP ~Tactics-Kits/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v1~
+VERSION ~v2~
 
 ALWAYS
-	INCLUDE ~Tactics-Kits/fl#add_kit_ee.tpa~
+	INCLUDE ~Tactics-Kits/Stuff/fl#add_kit_ee.tpa~
 END
 
-LANGUAGE ~Francais~
-	~French~
-	~Tactics-Kits/Setup.tra~
+LANGUAGE ~English~	~English~
+	~Tactics-Kits/Languages/English/Setup.tra~
+LANGUAGE ~Francais~	~French~
+	~Tactics-Kits/Languages/French/Setup.tra~
+LANGUAGE ~Chinese~	~Chinese~
+	~Tactics-Kits/Languages/Chinese/Setup.tra~
+LANGUAGE ~German~	~German~
+	~Tactics-Kits/Languages/German/Setup.tra~
+LANGUAGE ~Italian~	~Italian~
+	~Tactics-Kits/Languages/Italian/Setup.tra~
+LANGUAGE ~Polski~	~Polski~
+	~Tactics-Kits/Languages/Polski/Setup.tra~
+LANGUAGE ~Russian~	~Russian~
+	~Tactics-Kits/Languages/Russian/Setup.tra~
+LANGUAGE ~Spanish~	~Spanish~
+	~Tactics-Kits/Languages/Spanish/Setup.tra~
+
 
 // Generic Archer Kit
 BEGIN @110
@@ -21,7 +35,7 @@ ADD_KIT ~pxWARCH~
 ~pxWARCH                 15      0      0       0       0      0~
 ~pxWARCH                 1       1       1       1       1       1       1 1       1~
 ~pxWARCH                 0       1       1       1       1       0~
-~Tactics-Kits/pxWARCH.2da~
+~Tactics-Kits/Stuff/pxWARCH.2da~
 ~K_F_H    K_F_D   K_F_G   K_F_E   K_F_HE   K_F_HL   K_F_HO~
 ~0x00008000     2~
 ~Fi0~
@@ -43,12 +57,15 @@ ADD_KIT ~pxWANTI~
 ~pxWANTI                 15      0      0       0       0      0~
 ~pxWANTI                 0       0       1       0       0       1       0 0       1~
 ~pxWANTI                 0       1       1       1       1       0~
-~Tactics-Kits/pxWANTI.2da~
+~Tactics-Kits/Stuff/pxWANTI.2da~
 ~K_F_H    K_F_D   K_F_G   K_F_E   K_F_HE   K_F_HL   K_F_HO~
 ~0x00000001     2~
-~Fi0~
+~pa4~
 ~LEAT21 HAMM07 HELM07 BAG26 RING06 RING31 CLCK30 BOOT01 AMUL19 BRAC10 BELT06 AROW11,40 BULL03,40 BOLT06,40 POTN52,5 POTN04,2 POTN14,5 SW2H10 SW2H08 MISCBC~
 SAY @2900
 SAY @2901
 SAY @2902
 LAF fl#add_kit_ee	STR_VAR kit_name = pxWANTI	END
+
+COPY ~Tactics-Kits/stuff/reaver.itm~   ~override~	SAY NAME2 @2904 SAY DESC @2905
+COMPILE	~Tactics-Kits/stuff/gith03.baf~ 
