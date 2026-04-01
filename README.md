@@ -11,7 +11,7 @@ Archer Générique (Guerrier) :
 - Pas d'armure métallique.
 
 -Note :
-- Contrairement à l'Archer des éditons EE qui ne peut se spécialiser qu'avec les arcs et les arbalètes, ce kit peut aussi se spécialiser dans les frondes et les fléchettes (il a été prévu pour le jumelage / multiclassage)
+- Contrairement à l'Archer des éditions EE qui ne peut se spécialiser qu'avec les arcs et les arbalètes, ce kit peut aussi se spécialiser dans les frondes et les fléchettes (il a été prévu pour le jumelage / multiclassage)
 
  ----------------
 
@@ -24,5 +24,9 @@ Anti-Paladin (Guerrier)
 - Dissipe la magie en touchant.
 
 -Désavantages :
-- Doit être Mauvais~
+- Doit être Mauvais
+
+-Note :
+- L'installation de ce kit ajoute aussi une èpée à deux mains +5 maléfique à ramasser sur le cadavre d'un ennemi.
+
 
