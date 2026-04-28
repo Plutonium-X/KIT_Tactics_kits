@@ -28,7 +28,7 @@ LANGUAGE ~Spanish~	~Spanish~
 BEGIN @110
 ADD_KIT ~pxWARCH~
 ~pxWARCH                 1           1           1           1           1 1           1           1~
-~pxWARCH 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 5 5 5 5 5 2 2 2 3 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2~
+~pxWARCH 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 5 5 5 5 5 2 2 2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0~
 ~pxWARCH                 9      0      0      0       0      0~
 ~pxWARCH                 0       0       0       0       0       0~
 ~pxWARCH                 17      0      0       0       0      0~
@@ -50,7 +50,7 @@ BEGIN @2900
 COPY ~Tactics-Kits/Copy~		~Override~
 ADD_KIT ~pxWANTI~
 ~pxWANTI                 1           1           1           1           1 1           1           1~
-~pxWANTI 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 2 2 2 3 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2~
+~pxWANTI 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 2 2 2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0~
 ~pxWANTI                 12      0      0      0       13      17~
 ~pxWANTI                 0       0       0       0       0       0~
 ~pxWANTI                 17      0      0       0       0      0~
