@@ -1,6 +1,6 @@
 @110 = ~archer generique~ 
 @111 = ~Archer Générique~
-@112 = ~Archer Générique : L'Archer Générique est l'épitome de l'adresse avec un arc. C'est l'attaquant à distance ultime, capable de réussir à peu près n'importe quel coup, quelle que soit la difficulté.  Pour devenir aussi doué avec un arc, l'archer a eu à sacrifier certains de ses talents avec les armes de mêlée et les armures.
+@112 = ~Archer Générique : L'Archer Générique incarne la maîtrise de l'arc par excellence. C'est un tireur d'élite hors pair, capable de réussir à peu près n'importe quel tir, quelle que soit la difficulté. Pour devenir aussi doué avec un arc, l'archer a eu à sacrifier certains de ses talents avec les armes de mêlée et les armures.
 
 Avantages :
 -  +1 au toucher, et +1 point de dégâts avec n'importe quelle arme à distance tous les 3 niveaux d'expérience.
@@ -11,11 +11,11 @@ Niveau 12 :  -1 à la force de la cible
 Niveau 16 :  bonus de +2 aux dégâts
 
 Désavantages :
--  Peut seulement mettre deux étoiles dans les armes de melée ; ne peut jamais atteindre le niveau Maitre.
+-  Peut seulement mettre deux étoiles dans les armes de mêlée ; ne peut jamais atteindre le niveau Maître.
 -  Ne peut pas porter d'armure de métal.~
 @2900 = ~anti-paladin~
 @2901 = ~Anti-Paladin~
-@2902 = ~ANTI-PALADIN : L'Anti-Paladin a dédié sa vie à traquer et à éliminer les praticiens de la magie bénéfique, et à défaire les forces du bien. A cette fin son Dieu Noir lui a prodigué certaines capacités. Les Anti-Paladins prenent une grande joie à inliger la douleur et la souffrance. 
+@2902 = ~ANTI-PALADIN : L'Anti-Paladin a dédié sa vie à traquer et à éliminer les praticiens de la magie bénéfique, et à défaire les forces du bien. A cette fin son Dieu Noir lui a prodigué certaines capacités. Les Anti-Paladins prennent un malin plaisir à infliger douleur et souffrance. 
 
 Avantages :
 -  Peut utiliser 'Dissipation de la magie' une fois par jour par tranches de 4 niveaux (débute au niveau 1 avec une utilisation) : la capacité est utilisée à un facteur de vitesse de 1 et agit à une puissance du double de son niveau actuel. 
@@ -29,7 +29,7 @@ Désavantages :
 @2904 = ~Trancheur Maléfique~
 @2905 = ~Trancheur Maléfique +5
 
-Cette sombre épée à 2 mains irradie le mal de loin et n'est utilisable que par les Anti-Paladins et autres guerriers Mauvais. <CHARNAME> la gagna dans un combat contre les Githyanki. Elle procure au porteur une immunité aux attaques mentales telles que celles utilisées par les Illithids, les pires ennemis des Githyankis. 
+Cette sombre épée à deux mains irradie le mal de loin et n'est utilisable que par les Anti-Paladins et autres guerriers Mauvais. <CHARNAME> la gagna dans un combat contre les Githyankis. Elle procure au porteur une immunité aux attaques mentales telles que celles utilisées par les Illithids, les pires ennemis des Githyankis. 
 
 PARAMETRES :
 
