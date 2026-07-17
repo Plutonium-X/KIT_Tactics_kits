@@ -32,7 +32,8 @@ Anti-Paladin (Guerrier)
 ----------------------------------------
 # The old kits included in Tactic that have become unavailable since the EE editions: they are not in [“Tactics2 for_EE-alpha73”](https://forums.beamdog.com/discussion/41242/tactics-mod-bg2ee-compatibility-conversion-and-beta-test/p1) or in “Tactics Remix” .  But they’re here :)
 
-Generic Archer (Warrior):
+Generic Archer (Warrior):   
+
 Advantages:
 - +1 to hit, and +1 to damage with any missile weapon for every 3 levels of experience.
 - Every 4 levels he gains the ability to make a called shot once per day.  When he activates this ability, any shot made within the next 10 seconds is augmented in the following manner (according to the level of the archer):
