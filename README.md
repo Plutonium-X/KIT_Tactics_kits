@@ -2,31 +2,31 @@
 
 Archer Générique (Guerrier) :
 
--Avantages :
+Avantages :
 - +1 au toucher et aux dégâts avec les arme à distance tous les 3 niveaux.
 - Au niveau 1 et tous les 4 niveaux suivants "Trait Aligné" une fois par jour. (l'original de OBG2, celle qui au niveau 12 permet de tuer la cible par force =0 ^^)
 
--Désavantages :
+Désavantages :
 - Peut seulement mettre deux étoiles dans les armes de melée.
 - Pas d'armure métallique.
 
--Note :
+Note :
 - Contrairement à l'Archer des éditions EE qui ne peut se spécialiser qu'avec les arcs et les arbalètes, ce kit peut aussi se spécialiser dans les frondes et les fléchettes (il a été prévu pour le jumelage / multiclassage)
 
  ----------------
 
 Anti-Paladin (Guerrier)
 
--Avantages :
+Avantages :
 - Au niveau 1 et tous les 4 niveaux suivants 'Dissipation de la magie' une fois par jour (au double du niveau de l'Anti-paladin)
 - Au niveau 1 et tous les 4 niveaux suivants 'Vision véritable' une fois par jour.
 - Immunisé à la paralysie et aux charmes.
 - Dissipe la magie en touchant.
 
--Désavantages :
+Désavantages :
 - Doit être Mauvais
 
--Note :
+Note :
 - L'installation de ce kit ajoute aussi une èpée à deux mains +5 maléfique à ramasser sur le cadavre d'un ennemi.
 
 ----------------------------------------
@@ -46,6 +46,9 @@ Disadvantages:
 - An archer can only specialize in Melee weapons; he may never obtain mastery.
 - An archer cannot wear any metal armor.
 
+Note:
+- Unlike the Archer from the EE editions, who can only specialize in bows and crossbows, this kit can also specialize in slings and darts (it was designed for dual-classing/multiclassing)
+
  ----------------
 
 Anti-paladin (warrior)
@@ -61,3 +64,6 @@ Disadvantages:
 - May not Turn Undead
 - May not cast Clerical spells
 - Must be Evil
+
+Note:
+- Installing this kit also adds a +5 evil two-handed sword to be looted from an enemy’s corpse.
